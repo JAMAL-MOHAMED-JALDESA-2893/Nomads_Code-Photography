@@ -1,0 +1,13 @@
+h1{
+    font-size: 5rem;
+   
+}
+
+p{
+    font-style: italic;
+     background-color: blue;
+}
+
+.tag{
+    background-color: aqua;
+}
